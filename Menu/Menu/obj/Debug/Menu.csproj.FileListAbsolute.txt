@@ -1,0 +1,15 @@
+C:\Users\odmen\Desktop\Трпп\Menu\Menu\bin\Debug\Menu.exe.config
+C:\Users\odmen\Desktop\Трпп\Menu\Menu\bin\Debug\Menu.exe
+C:\Users\odmen\Desktop\Трпп\Menu\Menu\bin\Debug\Menu.pdb
+C:\Users\odmen\Desktop\Трпп\Menu\Menu\obj\Debug\Menu.csprojAssemblyReference.cache
+C:\Users\odmen\Desktop\Трпп\Menu\Menu\obj\Debug\MainWindow.g.cs
+C:\Users\odmen\Desktop\Трпп\Menu\Menu\obj\Debug\App.g.cs
+C:\Users\odmen\Desktop\Трпп\Menu\Menu\obj\Debug\Menu_MarkupCompile.cache
+C:\Users\odmen\Desktop\Трпп\Menu\Menu\obj\Debug\Menu_MarkupCompile.lref
+C:\Users\odmen\Desktop\Трпп\Menu\Menu\obj\Debug\MainWindow.baml
+C:\Users\odmen\Desktop\Трпп\Menu\Menu\obj\Debug\Menu.g.resources
+C:\Users\odmen\Desktop\Трпп\Menu\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\odmen\Desktop\Трпп\Menu\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\odmen\Desktop\Трпп\Menu\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\odmen\Desktop\Трпп\Menu\Menu\obj\Debug\Menu.exe
+C:\Users\odmen\Desktop\Трпп\Menu\Menu\obj\Debug\Menu.pdb

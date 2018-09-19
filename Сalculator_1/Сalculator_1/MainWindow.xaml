@@ -1,0 +1,49 @@
+﻿<Window x:Class="Сalculator_1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Сalculator_1"
+        mc:Ignorable="d"
+        Title="Calculator_1" Height="600" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <TextBlock x:Name="textBlock" Grid.Column="0" Grid.ColumnSpan="4" FontSize="36"/>
+        <TextBlock x:Name="textBlock_Otvet" Grid.Column="4" FontSize="36"/>
+        <Button Content="1" Grid.Row="1" FontSize="36" Click="Button_Click"/>
+        <Button Content="2" Grid.Row="1" Grid.Column="1" FontSize="36" Click="Button_Click"/>
+        <Button Content="3" Grid.Column="2" Grid.Row="1" FontSize="36" Click="Button_Click"/>
+        <Button Content="+" Grid.Column="3" Grid.Row="1" FontSize="36" Click="Button_Click"/>
+        <Button Content="4" Grid.Row="2" FontSize="36" Click="Button_Click"/>
+        <Button Content="5" Grid.Column="1" Grid.Row="2" FontSize="36" Click="Button_Click"/>
+        <Button Content="6" Grid.Column="2" Grid.Row="2" FontSize="36" Click="Button_Click"/>
+        <Button Content="-" Grid.Column="3" Grid.Row="2" FontSize="36" Click="Button_Click"/>
+        <Button Content="7" Grid.Row="3" FontSize="36" Click="Button_Click"/>
+        <Button Content="8" Grid.Column="1" Grid.Row="3" FontSize="36" Click="Button_Click"/>
+        <Button Content="9" Grid.Column="2" Grid.Row="3" FontSize="36" Click="Button_Click"/>
+        <Button Content="*" Grid.Column="3" Grid.Row="3" FontSize="36" Click="Button_Click"/>
+        <Button Content="**" Grid.Row="4" FontSize="36" Click="Button_Click" IsEnabled="False"/>
+        <Button Content="//" Grid.Column="1" Grid.Row="4" FontSize="36" Click="Button_Click" IsEnabled="False"/>
+        <Button Content="=" Grid.Column="2" Grid.Row="4" FontSize="36" Click="Button_Click_Otvet"/>
+        <Button Content="/" Grid.Column="3" Grid.Row="4" FontSize="36" Click="Button_Click"/>
+        <Button Content="," Grid.Column="4" Grid.Row="3" FontSize="36" Click="Button_Click"/>
+        <Button Content="Clear" Grid.Column="4" Grid.Row="1" FontSize="36" Click="Button_Click_Clear" />
+        <Button Content="BSpace" Grid.Column="4" Grid.Row="2" FontSize="36" Click="Button_Click_Clear"/>
+        <Image Grid.Column="4" Grid.Row="4" Source="call-the-cops.jpg" Stretch="Fill"/>
+        
+
+    </Grid>
+</Window>

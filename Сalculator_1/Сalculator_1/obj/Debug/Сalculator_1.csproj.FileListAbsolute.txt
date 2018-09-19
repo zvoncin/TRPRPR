@@ -1,0 +1,15 @@
+C:\Users\odmen\Desktop\Трпп\Сalculator_1\Сalculator_1\bin\Debug\Сalculator_1.exe.config
+C:\Users\odmen\Desktop\Трпп\Сalculator_1\Сalculator_1\bin\Debug\Сalculator_1.exe
+C:\Users\odmen\Desktop\Трпп\Сalculator_1\Сalculator_1\bin\Debug\Сalculator_1.pdb
+C:\Users\odmen\Desktop\Трпп\Сalculator_1\Сalculator_1\obj\Debug\Сalculator_1.csprojAssemblyReference.cache
+C:\Users\odmen\Desktop\Трпп\Сalculator_1\Сalculator_1\obj\Debug\MainWindow.g.cs
+C:\Users\odmen\Desktop\Трпп\Сalculator_1\Сalculator_1\obj\Debug\App.g.cs
+C:\Users\odmen\Desktop\Трпп\Сalculator_1\Сalculator_1\obj\Debug\Сalculator_1_MarkupCompile.cache
+C:\Users\odmen\Desktop\Трпп\Сalculator_1\Сalculator_1\obj\Debug\Сalculator_1_MarkupCompile.lref
+C:\Users\odmen\Desktop\Трпп\Сalculator_1\Сalculator_1\obj\Debug\MainWindow.baml
+C:\Users\odmen\Desktop\Трпп\Сalculator_1\Сalculator_1\obj\Debug\Сalculator_1.g.resources
+C:\Users\odmen\Desktop\Трпп\Сalculator_1\Сalculator_1\obj\Debug\Сalculator_1.Properties.Resources.resources
+C:\Users\odmen\Desktop\Трпп\Сalculator_1\Сalculator_1\obj\Debug\Сalculator_1.csproj.GenerateResource.cache
+C:\Users\odmen\Desktop\Трпп\Сalculator_1\Сalculator_1\obj\Debug\Сalculator_1.csproj.CoreCompileInputs.cache
+C:\Users\odmen\Desktop\Трпп\Сalculator_1\Сalculator_1\obj\Debug\Сalculator_1.exe
+C:\Users\odmen\Desktop\Трпп\Сalculator_1\Сalculator_1\obj\Debug\Сalculator_1.pdb
